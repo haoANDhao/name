@@ -6,3 +6,4 @@ def youdao():
     pass
 def fanyi():
    pass
+# 增加两个函数
