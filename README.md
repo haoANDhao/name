@@ -4,3 +4,5 @@ import requests
 
 def youdao():
     pass
+def fanyi():
+   pass
